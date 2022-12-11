@@ -4,9 +4,9 @@
 
 
 ** Downloading and preparing the Envoroment **
-   1. Download the folder from GIT HUB
-   2. Navigate to the code folder and build the application by "npm run dev"
-   3. Chaneg the connection string accordinly in api/fetch.ts
+   1. Download/Clone the repository from GIT HUB.
+   2. Navigate to the code folder and build the application by "npm run dev".
+   3. Chaneg the connection string accordinly in api/fetch.ts.
    4. Website is hosted on http://localhost:3000. Type this url on the browser to access the website.
 
 ** Application Functionality **

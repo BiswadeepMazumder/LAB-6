@@ -1,5 +1,8 @@
 ## Output
 
+
+
+
 ** Downloading and preparing the Envoroment **
    1: Download the folder from GIT HUB
    2: Navigate to the code folder and build the application by "npm run dev"
